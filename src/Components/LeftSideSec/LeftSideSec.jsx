@@ -1,7 +1,7 @@
 const LeftSideSec = () => {
   return (
     <div>
-      <h1>This Is Left Side Sec</h1>
+      <h1 className="text-xl font-semibold">All Caterogy</h1>
     </div>
   );
 };
